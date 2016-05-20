@@ -69,3 +69,4 @@ Credit should be always be given where credit is due. There are always exception
 - MeetupUtil: https://github.dev.meetup.com/meetup/meetup-util
 - AndroidMeetupUtil: https://github.com/meetup/meetup-android-util
 - IntacctClient
+- timeywimey: https://github.com/meetup/timeywimey
