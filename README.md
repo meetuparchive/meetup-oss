@@ -1,6 +1,6 @@
 # OSS at Meetup
 
-This document is to here to help define and refine what creating Open Source Software (OSS) means at Meetup. As software developers and software consumers, we all have had experience interacting with OSS and are familiar with the benefits (and sometimes drawbacks) it can bring. The guidelines in this document are an attempt to begin an outline of what it means to be creators and contributors of open sourced projects as Meetup’s engineering team.
+This document is here to help define and refine what creating Open Source Software (OSS) means at Meetup. As software developers and software consumers, we all have had experience interacting with OSS and are familiar with the benefits (and sometimes drawbacks) it can bring. The guidelines in this document are an attempt to begin an outline of what it means to be creators and contributors of open sourced projects as Meetup’s engineering team.
 
 ## A Quick Definition
 When we talk about OSS, we are talking about software projects whose source code is openly available to the public. More importantly, OSS projects contain a license that allows free redistribution in both source and compiled form.
@@ -68,5 +68,5 @@ Credit should be always be given where credit is due. There are always exception
 
 - MeetupUtil: https://github.dev.meetup.com/meetup/meetup-util
 - AndroidMeetupUtil: https://github.com/meetup/meetup-android-util
-- IntacctClient
+- IntacctClient: https://github.com/meetup/scala-intacct-client
 - timeywimey: https://github.com/meetup/timeywimey
