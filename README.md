@@ -70,3 +70,5 @@ Credit should be always be given where credit is due. There are always exception
 - AndroidMeetupUtil: https://github.com/meetup/meetup-android-util
 - IntacctClient: https://github.com/meetup/scala-intacct-client
 - timeywimey: https://github.com/meetup/timeywimey
+- [JSBot for Slack](https://github.com/meetup/jsbot-slack)
+- [AgendaBot for Slack](https://github.com/meetup/agenda-bot)
