@@ -6,10 +6,10 @@ This document is here to help define and refine what creating Open Source Softwa
 - [Prologue](#prologue)
 - [Why have a guide at all?](#why-have-a-guide-at-all)
 - [Should I Open Source X?](#should-i-open-source-x)
-      - [1. Who do you see using this project outside of Meetup?](#1-who-do-you-see-using-this-project-outside-of-meetup)
-      - [2. If you/your team isn’t around to maintain the project anymore, who will adopt it?](#2-if-youyour-team-isnt-around-to-maintain-the-project-anymore-who-will-adopt-it)
-      - [3. What extra considerations/steps would this add to our development/build/test/deploy pipeline?](#3-what-extra-considerationssteps-would-this-add-to-our-developmentbuildtestdeploy-pipeline)
-      - [4. Is there any sensitive information or IP that would be exposed by making this project public?](#4-is-there-any-sensitive-information-or-ip-that-would-be-exposed-by-making-this-project-public)
+  - [1. Who do you see using this project outside of Meetup?](#1-who-do-you-see-using-this-project-outside-of-meetup)
+  - [2. If you/your team isn’t around to maintain the project anymore, who will adopt it?](#2-if-youyour-team-isnt-around-to-maintain-the-project-anymore-who-will-adopt-it)
+  - [3. What extra considerations/steps would this add to our development/build/test/deploy pipeline?](#3-what-extra-considerationssteps-would-this-add-to-our-developmentbuildtestdeploy-pipeline)
+  - [4. Is there any sensitive information or IP that would be exposed by making this project public?](#4-is-there-any-sensitive-information-or-ip-that-would-be-exposed-by-making-this-project-public)
 - [Licenses](#licenses)
 - [Distribution Channels](#distribution-channels)
 - [Code of Conduct](#code-of-conduct)
@@ -42,18 +42,20 @@ In the beginning, this guide will be fairly sparse. The goal is to fill this out
 
 ## Should I Open Source X?
 
-##### 1. Who do you see using this project outside of Meetup?
+### 1. Who do you see using this project outside of Meetup?
+
 Who and how someone might benefit from the project who is not a part of Meetup? If nothing concrete comes to mind, it does not mean that you should cease considering open sourcing the project (you never know who might find it useful!).
 
-##### 2. If you/your team isn’t around to maintain the project anymore, who will adopt it?
+### 2. If you/your team isn’t around to maintain the project anymore, who will adopt it?
+
 Who else besides yourself has enough knowledge of the project to maintain it if you
 decide to step down? What happens to the project if your team switches focus or you join a new team?
 
-##### 3. What extra considerations/steps would this add to our development/build/test/deploy pipeline?
+### 3. What extra considerations/steps would this add to our development/build/test/deploy pipeline?
 
-##### 4. Is there any sensitive information or IP that would be exposed by making this project public?
+### 4. Is there any sensitive information or IP that would be exposed by making this project public?
+
 Anything in the commit history that might compromise member privacy or expose credentials? Anything that might compromise Meetup’s core business model?.
-
 
 ## Licenses
 Most projects here at Meetup have been released with the MIT License (https://opensource.org/licenses/MIT)
