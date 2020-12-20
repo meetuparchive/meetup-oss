@@ -1,7 +1,21 @@
-# OSS at Meetup
+# OSS at Meetup <!-- omit in toc -->
 
 This document is here to help define and refine what creating Open Source Software (OSS) means at Meetup. As software developers and software consumers, we all have had experience interacting with OSS and are familiar with the benefits (and sometimes drawbacks) it can bring. The guidelines in this document are an attempt to begin an outline of what it means to be creators and contributors of open sourced projects as Meetup’s engineering team.
 
+- [A Quick Definition](#a-quick-definition)
+- [Prologue](#prologue)
+- [Why have a guide at all?](#why-have-a-guide-at-all)
+- [Should I Open Source X?](#should-i-open-source-x)
+      - [1. Who do you see using this project outside of Meetup?](#1-who-do-you-see-using-this-project-outside-of-meetup)
+      - [2. If you/your team isn’t around to maintain the project anymore, who will adopt it?](#2-if-youyour-team-isnt-around-to-maintain-the-project-anymore-who-will-adopt-it)
+      - [3. What extra considerations/steps would this add to our development/build/test/deploy pipeline?](#3-what-extra-considerationssteps-would-this-add-to-our-developmentbuildtestdeploy-pipeline)
+      - [4. Is there any sensitive information or IP that would be exposed by making this project public?](#4-is-there-any-sensitive-information-or-ip-that-would-be-exposed-by-making-this-project-public)
+- [Licenses](#licenses)
+- [Distribution Channels](#distribution-channels)
+- [Code of Conduct](#code-of-conduct)
+- [Ownership](#ownership)
+- [Existing Projects](#existing-projects)
+- [Potential projects](#potential-projects)
 ## A Quick Definition
 When we talk about OSS, we are talking about software projects whose source code is openly available to the public. More importantly, OSS projects contain a license that allows free redistribution in both source and compiled form.
 
