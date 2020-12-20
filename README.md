@@ -69,5 +69,3 @@ Credit should be always be given where credit is due. There are always exception
 ## Potential projects
 
 - AndroidMeetupUtil: https://github.com/meetup/meetup-android-util
-- [JSBot for Slack](https://github.com/meetup/jsbot-slack)
-- [AgendaBot for Slack](https://github.com/meetup/agenda-bot)
