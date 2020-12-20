@@ -60,15 +60,14 @@ Credit should be always be given where credit is due. There are always exception
 - Archery: https://github.com/meetup/archery
 - Apple of My IAP: https://github.com/meetup/apple-of-my-iap
 - Android Device Names: https://github.com/meetup/android-device-names
+- IntacctClient: https://github.com/meetup/scala-intacct-client
 - Json-Slim: https://github.com/meetup/json-slim
 - Sbt-Avro: https://github.com/meetup/sbt-avro
 - Java Memcache: https://github.com/meetup/Memcached-Java-Client
+- timeywimey: https://github.com/meetup/timeywimey
 
 ## Potential projects
 
-- MeetupUtil: https://github.dev.meetup.com/meetup/meetup-util
 - AndroidMeetupUtil: https://github.com/meetup/meetup-android-util
-- IntacctClient: https://github.com/meetup/scala-intacct-client
-- timeywimey: https://github.com/meetup/timeywimey
 - [JSBot for Slack](https://github.com/meetup/jsbot-slack)
 - [AgendaBot for Slack](https://github.com/meetup/agenda-bot)
