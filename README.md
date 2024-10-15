@@ -1,3 +1,6 @@
+> [!WARNING]  
+> This repo contains some old Scala packages that are still used around the org. **Do not move the repo to meetuparchive** until those packages are used!
+
 # OSS at Meetup <!-- omit in toc -->
 
 This document is here to help define and refine what creating Open Source Software (OSS) means at Meetup. As software developers and software consumers, we all have had experience interacting with OSS and are familiar with the benefits (and sometimes drawbacks) it can bring. The guidelines in this document are an attempt to begin an outline of what it means to be creators and contributors of open sourced projects as Meetup’s engineering team.
